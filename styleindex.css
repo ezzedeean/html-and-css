@@ -1,0 +1,77 @@
+h2 {
+	color: red;
+	font-family: roboto;
+	text-align: center;
+}
+#title {
+    color:rgb(255, 255, 255);
+}
+section > p {
+    font-weight: bold;
+    background-color: #000000;
+    color: #fff;}
+      /* unvisited link */
+      a:link {
+        color: rgb(255, 38, 0);
+    }
+
+    /* visited link */
+    a:visited {
+        color: rgb(255, 0, 0);
+    }
+
+    /* mouse over element */
+    div:hover {
+        color: rgb(255, 38, 0);
+    } 
+
+    /* selected link */
+    a:active{
+        color: #0000FF
+    }
+
+    *{ font-style: bold;
+        text-decoration: none;
+    }
+li {
+    text-align: center;
+    display: inline;  
+    display: inline-block;
+    text-align: center;
+
+}
+ul {
+    text-align: center;
+    display: block;
+    background-color: black;
+    font-size: 50px;
+
+}
+footer{
+    background-color: black;
+    text-align: center;
+    text-decoration: aliceblue;
+    color: beige;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+img{
+    width="320" ;
+    height="240";
+    display: inline;
+    padding-left: 40%;
+    
+}
+section > img {
+    justify-content: center;
+
+}
+#mario {
+    padding-left: 40%;
+
+}
+#marioo {
+    padding-left: 30%;
+
+}
